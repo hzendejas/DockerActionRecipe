@@ -8,4 +8,4 @@ jobs:
       - name: Ejecutar mi propia action en un container
         uses: ./
         with:
-          who-to-greet: '@zendejas'
+          who-to-greet: '@zendejass'
