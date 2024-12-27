@@ -13,4 +13,3 @@ runs:
   image: 'Dockerfile'
   args:
     - ${{ inputs.who-to-greet }}
-  echo "answer=42" >> $GITHUB_OUTPUT
