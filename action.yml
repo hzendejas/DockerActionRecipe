@@ -3,8 +3,8 @@ description: 'Greet someone'
 inputs:
   who-to-greet:
       description: 'Who to greet'
-      required: false
-      default: 'World matraca'
+      required: true
+      default: 'World'
 outputs:
   answer:
     description: 'The answer to everything (always 42)'
